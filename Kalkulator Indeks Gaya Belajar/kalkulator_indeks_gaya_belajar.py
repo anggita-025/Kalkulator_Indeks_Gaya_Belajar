@@ -60,7 +60,7 @@ def calculate_learning_style(answers):
 def run_app():
     st.set_page_config(page_title="Kalkulator Gaya Belajar", page_icon="🧠")
 
-    st.title("🧠 Kalkulator Indeks Gaya Belajar")
+    st.title("🧠 Kalkulator Gaya Belajar")
     st.write("Jawablah pertanyaan-pertanyaan berikut untuk mengetahui gaya belajar dominan Anda.")
     st.markdown("---")
 
